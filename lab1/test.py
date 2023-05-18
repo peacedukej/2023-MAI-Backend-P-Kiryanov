@@ -1,4 +1,4 @@
-from LRUcache import LRUCache
+from lab1.LRUcache import LRUCache
 
 
 cache = LRUCache(3)
